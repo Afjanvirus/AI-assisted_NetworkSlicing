@@ -1,0 +1,926 @@
+[
+  {
+    "scenario_name": "Live Log 1",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 3000.0,
+          "latency": 6.367,
+          "jitter": 1.202,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 5056.0,
+          "latency": 12.197,
+          "jitter": 5.586,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 615168.0,
+          "latency": 6.101458,
+          "jitter": 1.281,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 338288.0,
+          "latency": 20.250542,
+          "jitter": 4.671,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 2",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 2944.0,
+          "latency": 6.06,
+          "jitter": 0.705,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 6544.0,
+          "latency": 9.486,
+          "jitter": 1.959,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 9920.0,
+          "latency": 5.742652,
+          "jitter": 1.127,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 277640.0,
+          "latency": 10.868348,
+          "jitter": 2.122,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 3",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 1920.0,
+          "latency": 5.085,
+          "jitter": 1.546,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 4600.0,
+          "latency": 9.588,
+          "jitter": 1.665,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 9848.0,
+          "latency": 5.565,
+          "jitter": 0.519,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 279176.0,
+          "latency": 10.605,
+          "jitter": 1.675,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 4",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 2392.0,
+          "latency": 6.163,
+          "jitter": 1.437,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 4712.0,
+          "latency": 10.429,
+          "jitter": 1.679,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 611920.0,
+          "latency": 6.263477,
+          "jitter": 1.783,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 307008.0,
+          "latency": 10.751523,
+          "jitter": 2.596,
+          "packetLoss": 0.024096385
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 5",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 1920.0,
+          "latency": 5.551,
+          "jitter": 0.096,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 3880.0,
+          "latency": 9.17,
+          "jitter": 1.642,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 10288.0,
+          "latency": 4.838,
+          "jitter": 0.571,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 282848.0,
+          "latency": 10.976,
+          "jitter": 2.215,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 6",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 2528.0,
+          "latency": 5.614297866821289,
+          "jitter": 0.9480000138282776,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 4904.0,
+          "latency": 9.610702514648438,
+          "jitter": 1.437999963760376,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 15864.0,
+          "latency": 5.7729997634887695,
+          "jitter": 1.100000023841858,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 307400.0,
+          "latency": 10.670000076293945,
+          "jitter": 2.2070000171661377,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 7",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 3416.0,
+          "latency": 6.041877269744873,
+          "jitter": 1.850000023841858,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 6128.0,
+          "latency": 9.225122451782227,
+          "jitter": 1.6920000314712524,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 607320.0,
+          "latency": 5.74204683303833,
+          "jitter": 1.2170000076293945,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 295000.0,
+          "latency": 11.160953521728516,
+          "jitter": 2.246999979019165,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 8",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 1920.0,
+          "latency": 5.076000213623047,
+          "jitter": 0.5120000243186951,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 3880.0,
+          "latency": 10.154000282287598,
+          "jitter": 1.9010000228881836,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 13096.0,
+          "latency": 5.511000156402588,
+          "jitter": 0.7149999737739563,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 280464.0,
+          "latency": 10.928000450134277,
+          "jitter": 2.1600000858306885,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 9",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 564140672.0,
+          "latency": 7.22579288482666,
+          "jitter": 0.03500000014901161,
+          "packetLoss": 0.12380924075841904
+        },
+        "uplink": {
+          "throughput": 8644728.0,
+          "latency": 10.332206726074219,
+          "jitter": 0.2540000081062317,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 8320.0,
+          "latency": 4.933000087738037,
+          "jitter": 0.8360000252723694,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 275672.0,
+          "latency": 10.878999710083008,
+          "jitter": 2.2330000400543213,
+          "packetLoss": 0.024096384644508362
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 10",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 600388416.0,
+          "latency": 7.020999908447266,
+          "jitter": 0.05900000035762787,
+          "packetLoss": 0.017655909061431885
+        },
+        "uplink": {
+          "throughput": 5709533.5,
+          "latency": 11.315999984741211,
+          "jitter": 0.16200000047683716,
+          "packetLoss": 0.11067961156368256
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 627776.0,
+          "latency": 6.134109020233154,
+          "jitter": 1.6469999551773071,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 300264.0,
+          "latency": 10.828890800476074,
+          "jitter": 2.510999917984009,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 11",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 612456448.0,
+          "latency": 7.105000019073486,
+          "jitter": 0.09300000220537186,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 8250224.0,
+          "latency": 10.864999771118164,
+          "jitter": 0.27000001072883606,
+          "packetLoss": 0.21583513915538788
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 12848.0,
+          "latency": 4.86899995803833,
+          "jitter": 0.5569999814033508,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 277752.0,
+          "latency": 10.616999626159668,
+          "jitter": 1.9630000591278076,
+          "packetLoss": 0.024390242993831635
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 12",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 611212480.0,
+          "latency": 6.813000202178955,
+          "jitter": 0.07699999958276749,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 5328896.0,
+          "latency": 11.673999786376953,
+          "jitter": 0.0949999988079071,
+          "packetLoss": 0.028606964275240898
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 10234.234375,
+          "latency": 4.813000202178955,
+          "jitter": 0.609000027179718,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 274402.40625,
+          "latency": 10.062000274658203,
+          "jitter": 2.183000087738037,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 13",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 612274752.0,
+          "latency": 7.001999855041504,
+          "jitter": 0.0430000014603138,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 7769336.0,
+          "latency": 10.8100004196167,
+          "jitter": 0.125,
+          "packetLoss": 0.31478968262672424
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 643560.0,
+          "latency": 9.04863166809082,
+          "jitter": 2.188999891281128,
+          "packetLoss": 0.2906976640224457
+        },
+        "uplink": {
+          "throughput": 342736.0,
+          "latency": 10.460368156433105,
+          "jitter": 2.1510000228881836,
+          "packetLoss": 0.04261363670229912
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 14",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 612454208.0,
+          "latency": 7.010000228881836,
+          "jitter": 0.039000000804662704,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 8999280.0,
+          "latency": 12.380000114440918,
+          "jitter": 0.2150000035762787,
+          "packetLoss": 0.19865772128105164
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 8224.0,
+          "latency": 4.7870001792907715,
+          "jitter": 0.5410000085830688,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 274952.0,
+          "latency": 10.343000411987305,
+          "jitter": 2.0450000762939453,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 15",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 610737408.0,
+          "latency": 7.072000026702881,
+          "jitter": 0.052000001072883606,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 6205328.0,
+          "latency": 11.531999588012695,
+          "jitter": 0.14300000667572021,
+          "packetLoss": 0.015471166931092739
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 8296.0,
+          "latency": 5.698999881744385,
+          "jitter": 2.0220000743865967,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 278224.0,
+          "latency": 10.562999725341797,
+          "jitter": 1.7929999828338623,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 16",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 611303808.0,
+          "latency": 6.8470001220703125,
+          "jitter": 0.11999999731779099,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 6357976.0,
+          "latency": 12.730999946594238,
+          "jitter": 0.12999999523162842,
+          "packetLoss": 0.20871862769126892
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 617262.75,
+          "latency": 6.439780235290527,
+          "jitter": 1.062000036239624,
+          "packetLoss": 0.0625
+        },
+        "uplink": {
+          "throughput": 296727.28125,
+          "latency": 10.833219528198242,
+          "jitter": 2.181999921798706,
+          "packetLoss": 0.0235294122248888
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 17",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 613188864.0,
+          "latency": 6.861999988555908,
+          "jitter": 0.04500000178813934,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 4918400.0,
+          "latency": 12.996000289916992,
+          "jitter": 0.2329999953508377,
+          "packetLoss": 0.12796834111213684
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 11648.0,
+          "latency": 5.611000061035156,
+          "jitter": 1.593999981880188,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 263936.0,
+          "latency": 10.850000381469727,
+          "jitter": 2.2839999198913574,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 18",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 610905856.0,
+          "latency": 6.816999912261963,
+          "jitter": 0.0689999982714653,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 8250976.0,
+          "latency": 12.48900032043457,
+          "jitter": 0.1860000044107437,
+          "packetLoss": 0.12445414811372757
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 18184.0,
+          "latency": 4.848999977111816,
+          "jitter": 0.902999997138977,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 317424.0,
+          "latency": 10.803999900817871,
+          "jitter": 2.2909998893737793,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 19",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 611404352.0,
+          "latency": 6.901000022888184,
+          "jitter": 0.05299999937415123,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 6531448.0,
+          "latency": 12.793000221252441,
+          "jitter": 0.19699999690055847,
+          "packetLoss": 0.036974791437387466
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 608969.0,
+          "latency": 6.45263147354126,
+          "jitter": 1.2790000438690186,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 300244.25,
+          "latency": 10.788369178771973,
+          "jitter": 2.26200008392334,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 20",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 610860224.0,
+          "latency": 7.068999767303467,
+          "jitter": 0.07500000298023224,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 3568048.0,
+          "latency": 12.092000007629395,
+          "jitter": 0.19300000369548798,
+          "packetLoss": 0.01184210553765297
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 14952.0,
+          "latency": 4.938000202178955,
+          "jitter": 0.7390000224113464,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 282840.0,
+          "latency": 10.347000122070312,
+          "jitter": 2.3519999980926514,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 21",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 613638700.0,
+          "latency": 6.911,
+          "jitter": 0.058,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 6147739.0,
+          "latency": 12.284,
+          "jitter": 0.154,
+          "packetLoss": 0.098258704
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 8384.0,
+          "latency": 4.931000232696533,
+          "jitter": 0.7450000047683716,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 273920.0,
+          "latency": 10.593000411987305,
+          "jitter": 2.1730000972747803,
+          "packetLoss": 0.024096384644508362
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 22",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 610284992.0,
+          "latency": 6.77400016784668,
+          "jitter": 0.03999999910593033,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 8063056.0,
+          "latency": 12.36400032043457,
+          "jitter": 0.12399999797344208,
+          "packetLoss": 0.22120419144630432
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 13957.9580078125,
+          "latency": 5.643020153045654,
+          "jitter": 1.3350000381469727,
+          "packetLoss": 0.4920634925365448
+        },
+        "uplink": {
+          "throughput": 267555.5625,
+          "latency": 11.016979217529297,
+          "jitter": 2.5350000858306885,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 23",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 779459136.0,
+          "latency": 25.77899932861328,
+          "jitter": 0.06800000369548798,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 5948280.0,
+          "latency": 14.319999694824219,
+          "jitter": 0.31299999356269836,
+          "packetLoss": 0.08121827244758606
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 49865.867,
+          "latency": 5.670145,
+          "jitter": 1.248,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 423311.3,
+          "latency": 10.805855,
+          "jitter": 2.504,
+          "packetLoss": 0.024390243
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 24",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 612634112.0,
+          "latency": 6.823999881744385,
+          "jitter": 0.06300000101327896,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 8021464.0,
+          "latency": 13.253999710083008,
+          "jitter": 0.17000000178813934,
+          "packetLoss": 0.48756757378578186
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 8624.0,
+          "latency": 5.3413825035095215,
+          "jitter": 0.5860000252723694,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 278440.0,
+          "latency": 10.715617179870605,
+          "jitter": 2.4560000896453857,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 25",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 611821632.0,
+          "latency": 6.531000137329102,
+          "jitter": 0.04899999871850014,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 8126056.0,
+          "latency": 12.42300033569336,
+          "jitter": 0.14399999380111694,
+          "packetLoss": 0.13947369158267975
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 15128.0,
+          "latency": 5.432638168334961,
+          "jitter": 1.3550000190734863,
+          "packetLoss": 0.6349206566810608
+        },
+        "uplink": {
+          "throughput": 320400.0,
+          "latency": 10.926362037658691,
+          "jitter": 2.3389999866485596,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 26",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 610670850.0,
+          "latency": 20.664,
+          "jitter": 0.079,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 8995341.0,
+          "latency": 11.6,
+          "jitter": 0.14,
+          "packetLoss": 0.14680648
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 11180.8193359375,
+          "latency": 5.698107719421387,
+          "jitter": 1.437999963760376,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 279824.1875,
+          "latency": 10.810892105102539,
+          "jitter": 2.510999917984009,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 27",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 610996224.0,
+          "latency": 6.202000141143799,
+          "jitter": 0.06499999761581421,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 5690989.0,
+          "latency": 14.159000396728516,
+          "jitter": 0.13899999856948853,
+          "packetLoss": 0.45896655321121216
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 69312.0,
+          "latency": 5.1154351234436035,
+          "jitter": 1.38100004196167,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 1777720.0,
+          "latency": 10.38156509399414,
+          "jitter": 1.4110000133514404,
+          "packetLoss": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "scenario_name": "Live Log 28",
+    "kpis": [
+      {
+        "downlink": {
+          "throughput": 612294400.0,
+          "latency": 6.627999782562256,
+          "jitter": 0.04100000113248825,
+          "packetLoss": 0.0
+        },
+        "uplink": {
+          "throughput": 5211776.0,
+          "latency": 13.788000106811523,
+          "jitter": 0.19200000166893005,
+          "packetLoss": 0.0
+        }
+      },
+      {
+        "downlink": {
+          "throughput": 61437.438,
+          "latency": 5.302792,
+          "jitter": 1.031,
+          "packetLoss": 0.4027778
+        },
+        "uplink": {
+          "throughput": 311023.03,
+          "latency": 10.316208,
+          "jitter": 2.661,
+          "packetLoss": 0.022988506
+        }
+      }
+    ]
+  }
+]
